@@ -42,11 +42,8 @@ export default function Dashboard() {
         </div>
       </section>
     </main>
-  );
-}
 
-
-<section className="mt-16 text-center">
+    <section className="mt-16 text-center">
   <h2 className="text-2xl font-semibold text-gray-800 mb-4">
     聯絡我們，啟動永續方案
   </h2>
@@ -60,4 +57,10 @@ export default function Dashboard() {
     聯絡我們
   </a>
 </section>
+  
+  );
+}
+
+
+
 
