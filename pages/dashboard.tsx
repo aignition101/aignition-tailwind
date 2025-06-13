@@ -43,20 +43,7 @@ export default function Dashboard() {
       </section>
     </main>
 
-    <section className="mt-16 text-center">
-  <h2 className="text-2xl font-semibold text-gray-800 mb-4">
-    聯絡我們，啟動永續方案
-  </h2>
-  <p className="text-gray-600 mb-6">
-    AIgnition 專業團隊協助您從評估、設計到節能執行，快速導入 ESG 與數位轉型。
-  </p>
-  <a
-    href="mailto:AIgnition.contact@gmail.com"
-    className="inline-block bg-green-600 text-white px-6 py-3 rounded hover:bg-green-700 transition"
-  >
-    聯絡我們
-  </a>
-</section>
+    
   
   );
 }
